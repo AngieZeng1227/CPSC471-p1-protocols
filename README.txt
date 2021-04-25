@@ -6,6 +6,8 @@ Ruiwen Zhang  jasonzhang03@csu.fullerton.edu
 
 Nick Lui nicklui1998@csu.fullerton.edu
 
+Raymond Esparza rresparza@csu.fullerton.edu
+
 
 Instructions: 
 
