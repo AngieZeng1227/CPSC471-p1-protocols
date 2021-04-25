@@ -4,6 +4,8 @@ Cuong Nguyen	justcuong@csu.fullerton.edu
 
 Ruiwen Zhang  jasonzhang03@csu.fullerton.edu
 
+Nick Lui nicklui1998@csu.fullerton.edu
+
 
 Instructions: 
 
