@@ -8,6 +8,7 @@ Nick Lui nicklui1998@csu.fullerton.edu
 
 Raymond Esparza rresparza@csu.fullerton.edu
 
+Zhi Zeng zengzhi@csu.fullerton.edu
 
 Instructions: 
 
